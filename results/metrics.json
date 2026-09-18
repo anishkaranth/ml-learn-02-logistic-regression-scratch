@@ -1,0 +1,7 @@
+{
+  "dataset": "synthetic 2D blobs (n_per_class=100, seed=42)",
+  "train_accuracy": 0.985,
+  "final_bce_loss": 0.0421,
+  "lr": 0.5,
+  "epochs": 400
+}

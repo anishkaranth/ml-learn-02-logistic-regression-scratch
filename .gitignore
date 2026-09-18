@@ -13,3 +13,5 @@ env/
 .ruff_cache/
 dist/
 build/
+
+# results/ is intentionally tracked (RESULTS.md, metrics.json, JSON.shot, plots)

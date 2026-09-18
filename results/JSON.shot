@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-09-18T08:17:01.279537+00:00",
+  "repo": "anishkaranth/ml-learn-02-logistic-regression-scratch",
+  "command": "python logistic_regression.py",
+  "metrics": {
+    "dataset": "synthetic 2D blobs (n_per_class=100, seed=42)",
+    "train_accuracy": 0.985,
+    "final_bce_loss": 0.0421,
+    "lr": 0.5,
+    "epochs": 400
+  }
+}
